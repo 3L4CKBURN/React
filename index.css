@@ -1,0 +1,9 @@
+#heading{
+    color: red;
+}
+.body{
+    background-color: rgb(128, 112, 112);
+}
+#child h5{
+    color: blue;
+}
